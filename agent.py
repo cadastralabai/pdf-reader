@@ -157,5 +157,3 @@ def analisar_guia_de_marca():
 
 if __name__ == "__main__":
     analisar_guia_de_marca()
-
-print("Script 'agent.py' carregado com sucesso. Execute a função 'analisar_guia_de_marca()' para iniciar.   ")
